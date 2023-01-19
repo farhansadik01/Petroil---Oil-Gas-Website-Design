@@ -1,0 +1,539 @@
+/* screen                    14000 */
+@media (max-width:1400px){
+    .row .box-1 h1 {
+        font-size: 66px;
+    }
+    .buttons button {
+        font-size: 16px;
+    }
+
+/* icon section  */
+    #icon .box-3 h3 {
+        font-size: 23px !important;
+    }
+    .box-3 p {
+        font-size: 17px !important;
+    }
+    #banner-2 .box-7 h1 {
+        width: 508px;
+        font-size: 57px;
+        line-height: 72.12px;
+    }
+    #banner-2 .box-7 p {
+        width: 369px;
+        font-size: 21px !important;
+        padding-top: 15px;
+    }
+    .buttons button {
+        font-size: 14px;
+    }
+    #contact-2 .contact-2-section h3 {
+        font-size: 38px;
+    }
+    #logo img {
+        width: 61%;
+    }
+    #banner-3 .box-8 h1 {
+        font-size: 58px;
+        line-height: 82.12px;
+    }
+    #banner-3 .box-8 p {
+        width: 391px;
+        font-size: 21px;
+    }
+    .buttons button {
+        font-size: 12px;
+    }
+    #banner-4 .box-9 h1 {
+        font-size: 57px;
+    }
+    #banner-4 .box-9 p {
+        width: 388px;
+        font-size: 20px !important;
+    }
+
+    .buttons button {
+        font-size: 11px;
+    }
+    .salider-1 {
+        width: 100%;
+    }
+    .salider-1 p {
+        width: 467px;
+        font-size: 16px;
+    }
+    .subcribe .row h1 {
+        font-size: 37px !important;
+    }
+
+
+
+}
+
+/* screen                    1400px */
+/* screen                    1200px */
+@media (max-width:1200px){
+    #icon .box-3 h3 {
+        font-size: 22px !important;
+    }
+    .box-3 p {
+        font-size: 16px !important;
+    }
+    .text-danger {
+        font-size: 14px;
+    }
+    #banner-2 .box-7 h1 {
+        font-size: 46px;
+        line-height: 62.12px;
+    }
+    #banner-2 .box-7 p {
+        width: 369px;
+        font-size: 19px !important;
+        padding-top: 8px;
+    }
+    .buttons button {
+        font-size: 13px;
+    }
+    #contact-2 .contact-2-section h3 {
+        font-size: 35px;
+    }
+    #banner-3 .box-8 h1 {
+        font-size: 52px;
+        line-height: 71.12px;
+    }
+    #banner-3 .box-8 p {
+        width: 379px;
+        font-size: 20px;
+    }
+    .buttons button {
+        font-size: 12px;
+    }
+    #banner-4 .box-9 h1 {
+        font-size: 47px;
+        width: 413px;
+    }
+    #banner-4 .box-9 p {
+        width: 380px;
+        font-size: 18px !important;
+    }
+    .buttons button {
+        font-size: 10px;
+    }
+    .salider-1 h1 {
+        font-size: 23px;
+    }
+    .salider-1 h3 {
+        font-size: 20px;
+    }
+    .salider-1 {
+        width: 100%;
+    }
+    .salider-1 p {
+        width: 431px;
+        font-size: 15px;
+    }
+    .subcribe .row h1 {
+        font-size: 35px !important;
+        width: 519px !important;
+    }
+    .subcribe .row p {
+        font-size: 14px !important;
+        width: 519px !important;
+    }
+    .subcribe .row .button input {
+        padding: 12px 52px !important;
+        margin-right: 1px;
+    }
+    .subcribe .row .button button {
+        padding: 12px 40px !important;
+    }
+    .subcribe .row span i {
+        font-size: 19px;
+    } 
+    .subcribe .row span {
+        top: 14px;
+        left: 277px !important;
+    }
+    .subcribe .row span {
+        top: 14px;
+        left: -330px !important;
+    }
+    .subcribe .row .button button {
+        padding: 12px 37px !important;
+    }
+    .footer-box-1 .text-1 p {
+        width: 344px !important;
+        font-size: 22px !important;
+    }
+
+
+
+
+
+
+}
+/* screen                    1200px */
+/* screen                     992px*/
+@media (max-width:992px){
+    .row .box-1 h1 {
+        font-size: 38px;
+        width: 317px;
+    }
+    .row .box-1 p {
+        width: 359px;
+        font-size: 18px !important;
+    }
+    .buttons button {
+        font-size: 18px;
+        padding: 15px 25px 13px 25px;
+    }
+    #icon .box-3 h3 {
+        font-size: 20px !important;
+    }
+    .box-3 p {
+        font-size: 12px !important;
+    }
+    .text-danger {
+        font-size: 12px;
+    }
+    .box-6 img {
+        width: 137%;
+    }
+    .pt-5 {
+        padding-top: 1rem !important;
+    }
+    #banner-2 .box-7 h1 {
+        font-size: 34px;
+        line-height: 55.12px;
+        width: 314px;
+    }
+    #banner-2 .box-7 p {
+        width: 316px;
+        font-size: 15px !important;
+        padding-top: 1px;
+    }
+    .buttons button {
+        font-size: 16px;
+        padding: 13px 23px 13px 23px;
+    }
+    #contact-2 .contact-2-section h3 {
+        font-size: 30px;
+    }
+    #banner-3 .box-8 h1 {
+        font-size: 38px;
+        line-height: 60.12px;
+        width: 330px;
+    }
+    #banner-3 .box-8 p {
+        width: 293px;
+        font-size: 18px;
+    }
+    .buttons button {
+        font-size: 15px;
+        padding: 11px 21px 11px 21px;
+    }
+    .w-75 {
+        width: 99% !important;
+    }
+    .w-100 {
+        width: 120% !important;
+    }
+    #banner-4 .box-9 h1 {
+        font-size: 38px;
+        width: 327px;
+    }
+    #banner-4 .box-9 p {
+        width: 310px;
+        font-size: 15px !important;
+    }
+    .buttons button {
+        font-size: 13px;
+        padding: 10px 19px 10px 19px;
+    }
+
+    .salider-1 {
+        width: 100%;
+    }
+    .salider-1 h1 {
+        font-size: 21px;
+    }
+    .salider-1 h3 {
+        font-size: 18px;
+    }
+    .salider-1 p {
+        width: 326px;
+        font-size: 13px;
+    }
+    .subcribe .row h1 {
+        font-size: 28px !important;
+        width: 436px !important;
+    }
+    .subcribe .row p {
+        font-size: 13px !important;
+        width: 452px !important;
+    }
+    .subcribe .row .button input {
+        padding: 12px 20px !important;
+        margin-right: 1px;
+    }
+    .subcribe .row .button input {
+        padding: 12px 35px !important;
+        margin-right: -53px;
+    }
+    .subcribe .row span {
+        top: 15px;
+        left: -270px !important;
+    }
+    .footer-box-1 .text-1 p {
+        width: 321px !important;
+        font-size: 18px !important;
+    }
+
+
+
+
+
+
+}
+/* screen                    992px */
+/* screen                    768px */
+@media (max-width:770px){
+    .w-100 {
+        width: 84% !important;
+        padding-top: 70px;
+    }
+    #icon .box-3 h3 {
+        font-size: 25px !important;
+    }
+    .box-3 p {
+        font-size: 16px !important;
+    }
+    .text-danger {
+        font-size: 16px;
+    }
+    .text-area .box-4 p {
+        font-size: 20px !important;;
+    }
+    .box-6 img {
+        width: 80%;
+        padding-bottom: 50px;
+    }
+    #contact-2 .contact-2-section h3 {
+        font-size: 26px;
+    }
+    .w-75 {
+        width: 90% !important;
+        padding-top: 52px;
+    }
+    .box-9 {
+        padding-top: 57px;
+    }
+    #logo img {
+        width: 35%;
+    }
+
+    #logo-2 img {
+        width: 39%;
+    }
+    .salider-1 {
+        width: 100%;
+    }
+    .subcribe .row h1 {
+        font-size: 26px !important;
+        width: 410px !important;
+    }
+    .subcribe .row p {
+        font-size: 13px !important;
+        width: 394px !important;
+    }
+    .button.pb-5 {
+        margin-left: -147px;
+    }
+    .subcribe .row span {
+        top: 15px;
+        left: -410px !important;
+    }
+    .footer-box-1 .text-1 p {
+        width: 344px !important;
+        font-size: 19px !important;
+    }
+    .social-icon i:first-child {
+        font-size: 13px;
+        padding: 15px 19px;
+    }
+    .manu-1 {
+        margin-left: 70px;
+    }
+
+
+
+
+
+}
+/* screen                    768px */
+
+/* screen                    576px */
+@media (max-width:576px){
+    .text-area .box-4 p {
+        font-size: 18px !important;
+        width: 94%;
+    }
+    #contact-2 .contact-2-section h3 {
+        font-size: 22px;
+    }
+    #banner-4 .box-9 h1 {
+        font-size: 33px;
+        width: 278px;
+    }
+    #banner-4 .box-9 p {
+        width: 273px;
+        font-size: 13px !important;
+    }
+    .salider-1 {
+        width: 100%;
+    }
+    .subcribe .row h1 {
+        font-size: 24px !important;
+        width: 371px !important;
+    }
+    .subcribe .row p {
+        font-size: 13px !important;
+        width: 345px !important;
+    }
+    .subcribtion {
+        margin-left: 72px;
+    }
+
+    .button.pb-5 {
+        margin-left: -70px;
+    }
+
+.subcribe .row span {
+	top: 15px;
+	left: -342px !important;
+}
+
+.footer-box-1 {
+	margin-left: 69px !important;
+}
+
+.footer-box-1 .text-1 p {
+    width: 344px !important;
+    font-size: 17px !important;
+}
+
+
+
+
+
+
+
+}
+
+
+/* screen                    576px */
+/* screen                    460px */
+
+@media (max-width:460px){
+    .salider-1 {
+        width: 100%;
+    }
+    .subcribe .row h1 {
+        font-size: 19px !important;
+        width: 294px !important;
+    }
+    .subcribe .row p {
+        font-size: 13px !important;
+        width: 252px !important;
+    }
+    .subcribe .row .button input {
+        padding: 12px 13px !important;
+        margin-right: -53px;
+    }
+    .subcribe .row .button button {
+        padding: 12px 14px !important;
+    }
+    .subcribe .row .button input {
+        padding: 12px 27px !important;
+        margin-right: -50px;
+    }
+    .subcribe .row span {
+        top: 15px;
+        left: -288px !important;
+    }
+    .subcribe .row span i {
+        font-size: 16px;
+    }
+    .manu-1 {
+        text-align: center;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+/* screen                    460px */
+/* screen                    375px */
+@media (max-width:375px){
+    .buttons button {
+        font-size: 17px;
+        padding: 14px 18px 14px 15px;
+    }
+    #icon .box-3 h3 {
+        font-size: 24px !important;
+    }
+    .box-3 p {
+        font-size: 14px !important;
+    }
+    .text-danger {
+        font-size: 15px;
+    }
+    .text-area .box-4 p {
+        font-size: 17px !important;
+        width: 94%;
+    }
+    #contact-2 .contact-2-section h3 {
+        font-size: 20px;
+    }
+    #banner-4 .box-9 h1 {
+        font-size: 32px;
+        width: 267px;
+    }
+    #banner-4 .box-9 p {
+        width: 255px;
+        font-size: 12px !important;
+    }
+    .buttons button {
+        font-size: 11px;
+        padding: 14px 18px 14px 15px;
+    }
+    .salider-1 {
+        width: 100%;
+    }
+    .subcribe .row h1 {
+        font-size: 17px !important;
+        width: 260px !important;
+    }
+    .subcribe .row p {
+        font-size: 12px !important;
+        width: 243px !important;
+    }
+    .manu-1 {
+        text-align: center;
+    }
+
+
+
+}
+/* screen                    576px */
